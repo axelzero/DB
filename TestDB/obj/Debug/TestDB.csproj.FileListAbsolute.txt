@@ -1,0 +1,14 @@
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\bin\Debug\TestDB.exe.config
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\bin\Debug\TestDB.exe
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\bin\Debug\TestDB.pdb
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\bin\Debug\EntityFramework.dll
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\bin\Debug\EntityFramework.xml
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\obj\Debug\TestDB.csprojAssemblyReference.cache
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\obj\Debug\TestDB.csproj.CoreCompileInputs.cache
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\obj\Debug\TestDB.csproj.CopyComplete
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\obj\Debug\TestDB.exe
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\obj\Debug\TestDB.pdb
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\obj\Debug\TestDB.Migrations.InitialCreate.resources
+C:\Users\Vital\Desktop\C# Advanced\HomeWork\TestDB\TestDB\obj\Debug\TestDB.csproj.GenerateResource.cache
